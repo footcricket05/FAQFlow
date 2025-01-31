@@ -18,7 +18,7 @@ This is a Django-based FAQ management system with **multilingual support**, **WY
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/footcricket05/FAQFlow.git
-cd faq_project
+cd FAQFlow
 ```
 
 ### **2️⃣ Create Virtual Environment**
@@ -166,7 +166,7 @@ We welcome contributions! Please follow these steps:
 3. **Clone the Repository:**
    ```bash
    git clone  https://github.com/footcricket05/FAQFlow.git
-   cd faq_project
+   cd FAQFlow
    ```
 4. **Run the Application in Docker:**
    ```bash
