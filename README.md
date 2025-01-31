@@ -17,7 +17,7 @@ This is a Django-based FAQ management system with **multilingual support**, **WY
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/footcricket05/FAQFlow.git
 cd faq_project
 ```
 
