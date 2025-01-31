@@ -165,7 +165,7 @@ We welcome contributions! Please follow these steps:
    ```
 3. **Clone the Repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone  https://github.com/footcricket05/FAQFlow.git
    cd faq_project
    ```
 4. **Run the Application in Docker:**
